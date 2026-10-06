@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ashok 👋
 
-<!--
-**AshokBadaradinni/AshokBadaradinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer → Product Builder**
 
-Here are some ideas to get you started:
+I build backend systems with Java and Spring Boot, and I'm currently building **[Supprizo](https://supprizo.com)** — a platform focused on creating unforgettable moments for people you love.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+* Java
+* Spring Boot
+* REST APIs
+* PostgreSQL
+* JPA / Hibernate
+* Kafka
+* Git & GitHub
+
+### 🚀 Currently Building
+
+**Supprizo** — creating meaningful digital surprises and memorable experiences.
+
+### 📚 Currently Learning
+
+* System Design
+* Scalable Backend Architecture
+* Product Engineering
+* Cloud & DevOps
+
+### 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ashok-badaradinni-639aa2257)
